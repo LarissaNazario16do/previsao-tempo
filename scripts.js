@@ -6,7 +6,7 @@ function colocarDadosNaTela(dados) {
     Math.floor(dados.main.temp) + "°C";
   document.querySelector(".texto-previsao").innerHTML =
     dados.weather[0].description;
-  document.querySelector(".umidade").innerHTML = dados.main.humidity + "%";
+  document.querySelector(".umidade").innerHTML = "Umidade: " + dados.main.humidity + "%";
   document.querySelector(
     ".img-previsao"
   ).src = `https://openweathermap.org/img/wn/${dados.weather[0].icon}.png`;
