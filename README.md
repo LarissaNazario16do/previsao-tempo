@@ -26,4 +26,4 @@
 
 # Autores
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/121519946?s=400" width=200><br><sub>Larissa Nazario Domingos</sub>]([https://github.com/camilafernanda](https://github.com/LarissaNazario16do))
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/121519946?s=400" width=200 border-radius="50%"><br><sub>Larissa Nazario Domingos</sub>]([https://github.com/camilafernanda](https://github.com/LarissaNazario16do))
